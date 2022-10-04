@@ -1,6 +1,6 @@
 - 👋 Caleb P. Charpentier
-- 👀 Undergraduate researcher interested in statistical phylogenetics
-- 📫 caleb.charpentier@selu.edu
+- 👀 Ph.D. student at Virginia Tech
+- 📫 calebc22@vt.edu
 
 <!---
 Caleb-Charpentier/Caleb-Charpentier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
